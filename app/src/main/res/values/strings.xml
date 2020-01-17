@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FootbalSchedule</string>
+
+    <string name="next_match">Next Match</string>
+    <string name="previous_match">Previous Match</string>
+
+    <string name="tv_date_detail">First Event : %1$s </string>
+    <string name="tv_gender_detail">Gender : %1$s </string>
+    <string name="tv_country_detail">Country : %1$s </string>
+    <string name="favorites">Favorites</string>
+
+    <string-array name="spinner_league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>Scottish Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Greek Superleague Greece</item>
+        <item>Dutch Eredivisie</item>
+        <item>Belgian Jupiler League</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
